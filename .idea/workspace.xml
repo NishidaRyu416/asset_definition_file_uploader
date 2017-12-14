@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0135e986-d7b4-4e64-9722-f9ccd27b766f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/asset_definition_file_uploader.rb" afterPath="$PROJECT_DIR$/lib/asset_definition_file_uploader.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/asset_definition_file_uploader/core.rb" afterPath="$PROJECT_DIR$/lib/asset_definition_file_uploader/core.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/asset_definition_file_uploader/version.rb" afterPath="$PROJECT_DIR$/lib/asset_definition_file_uploader/version.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,10 +44,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/asset_definition_file_uploader.rb" />
         <option value="$PROJECT_DIR$/asset_definition_file_uploader.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/lib/asset_definition_file_uploader/core.rb" />
+        <option value="$PROJECT_DIR$/lib/asset_definition_file_uploader.rb" />
         <option value="$PROJECT_DIR$/lib/asset_definition_file_uploader/version.rb" />
       </list>
     </option>
@@ -74,7 +77,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -122,6 +124,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,12 +286,13 @@
       <workItem from="1513003564514" duration="1695000" />
       <workItem from="1513069920221" duration="458000" />
       <workItem from="1513078369215" duration="7203000" />
-      <workItem from="1513257032496" duration="80000" />
+      <workItem from="1513257032496" duration="115000" />
+      <workItem from="1513257716614" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10570000" />
+    <option name="totallyTimeSpent" value="10638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -326,6 +330,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/asset_definition_file_uploader/version.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/asset_definition_file_uploader/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
@@ -337,15 +349,7 @@
         <state relative-caret-position="1065">
           <caret line="71" column="3" lean-forward="true" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
           <folding>
-            <marker date="1513257064000" expanded="true" signature="34:2778" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="45:2774" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="395:988" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="1062:1319" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="1508:2026" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="2053:2344" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="2256:2297" ph="do ... end" />
-            <marker date="1513257064000" expanded="true" signature="2414:2629" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="2657:2770" ph=" ... end" />
+            <marker date="1513257730000" expanded="true" signature="34:38" ph=" ... end" />
           </folding>
         </state>
       </provider>
@@ -355,7 +359,14 @@
         <state relative-caret-position="1080">
           <caret line="72" column="5" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="72" selection-end-column="5" />
           <folding>
-            <marker date="1513152059000" expanded="true" signature="210:214" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="210:3101" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="568:1197" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="1273:1552" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="1743:2295" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2324:2647" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2545:2590" ph="do ... end" />
+            <marker date="1513257740000" expanded="true" signature="2719:2946" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2976:3097" ph=" ... end" />
           </folding>
         </state>
       </provider>
@@ -365,7 +376,14 @@
         <state relative-caret-position="495">
           <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <marker date="1513152059000" expanded="true" signature="210:214" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="210:3101" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="568:1197" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="1273:1552" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="1743:2295" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2324:2647" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2545:2590" ph="do ... end" />
+            <marker date="1513257740000" expanded="true" signature="2719:2946" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2976:3097" ph=" ... end" />
           </folding>
         </state>
       </provider>
@@ -404,30 +422,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/asset_definition_file_uploader.rb">
+    <entry file="file://$PROJECT_DIR$/lib/asset_definition_file_uploader/core.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="47" />
+          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
           <folding>
-            <marker date="1513152059000" expanded="true" signature="210:214" ph=" ... end" />
+            <marker date="1513257730000" expanded="true" signature="34:38" ph=" ... end" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/asset_definition_file_uploader/core.rb">
+    <entry file="file://$PROJECT_DIR$/lib/asset_definition_file_uploader.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-738">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="462">
+          <caret line="87" column="3" lean-forward="true" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
           <folding>
-            <marker date="1513257064000" expanded="true" signature="34:2778" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="45:2774" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="395:988" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="1062:1319" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="1508:2026" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="2053:2344" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="2256:2297" ph="do ... end" />
-            <marker date="1513257064000" expanded="true" signature="2414:2629" ph=" ... end" />
-            <marker date="1513257064000" expanded="true" signature="2657:2770" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="210:3101" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="568:1197" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="1273:1552" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="1743:2295" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2324:2647" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2545:2590" ph="do ... end" />
+            <marker date="1513257740000" expanded="true" signature="2719:2946" ph=" ... end" />
+            <marker date="1513257740000" expanded="true" signature="2976:3097" ph=" ... end" />
           </folding>
         </state>
       </provider>
