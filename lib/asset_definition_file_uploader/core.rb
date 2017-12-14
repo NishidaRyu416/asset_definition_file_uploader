@@ -1,9 +1,5 @@
+module AssetDefinitionFileUploader
 class Core
-  require 'net/http'
-  require 'json'
-  require 'date'
-  require 'google_url_shortener'
-
   @uri = URI("https://api.github.com/gists")
   FILE_NAME=Date.today.to_time
 
@@ -83,4 +79,5 @@ class Core
     url=Google::UrlShortener.shorten!(url)
     return url
   end
+end
 end
